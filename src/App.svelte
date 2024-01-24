@@ -15,7 +15,7 @@
 
 <style>
 	main {
-		height: 100vh;
+		height: 100%;
 		width: 100%;
 		text-align: center;
 		max-width: 240px;
@@ -38,7 +38,7 @@
 		background-image: url('/images/background-image.jpg');
 		background-size: cover;
 		background-position: center;
-		height: 100vh;
+		height: 100%;
 	}
 
 	.under-construction-banner {
