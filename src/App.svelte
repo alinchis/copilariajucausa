@@ -15,7 +15,7 @@
 
 <style>
 	main {
-		height: 100%;
+		height: 100svh;
 		width: 100%;
 		text-align: center;
 		max-width: 240px;
@@ -75,7 +75,7 @@
 		}
 
 		.under-construction-banner {
-			height: 100vh;
+			height: 100svh;
 		}
 
 		.under-construction-banner .logo {
@@ -111,11 +111,11 @@
 		.background-image {
 			display: flex;
 			flex-direction: row;
-			height: 100vh;
+			height: 100svh;
 		}
 
 		.under-construction-banner {
-			height: 100hv;
+			height: 100svh;
 			padding: 0;
 			margin: 0;
 		}
@@ -139,7 +139,7 @@
 		.background-image {
 			display: flex;
 			flex-direction: column;
-			height: 100vh;
+			height: 100svh;
 		}
 
 		.under-construction-banner {
@@ -165,7 +165,7 @@
 		.background-image {
 			display: flex;
 			flex-direction: column;
-			height: 100vh;
+			height: 100svh;
 		}
 
 		.under-construction-banner {
